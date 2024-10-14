@@ -1,0 +1,5 @@
+C:\Users\oscar\OneDrive\Desktop\C#\Snake Game\publish\Snake Game.pdb
+C:\Users\oscar\OneDrive\Desktop\C#\Snake Game\publish\Content/MenuFont.xnb
+C:\Users\oscar\OneDrive\Desktop\C#\Snake Game\publish\soft_oal.dll
+C:\Users\oscar\OneDrive\Desktop\C#\Snake Game\publish\SDL2.dll
+C:\Users\oscar\OneDrive\Desktop\C#\Snake Game\publish\Snake Game.exe

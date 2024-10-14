@@ -1,0 +1,15 @@
+C:\Users\oscar\OneDrive\Desktop\C#\Snake Game\Snake Game\bin\Release\net8.0\publish\Snake Game.exe
+C:\Users\oscar\OneDrive\Desktop\C#\Snake Game\Snake Game\bin\Release\net8.0\publish\Content/MenuFont.xnb
+C:\Users\oscar\OneDrive\Desktop\C#\Snake Game\Snake Game\bin\Release\net8.0\publish\Snake Game.dll
+C:\Users\oscar\OneDrive\Desktop\C#\Snake Game\Snake Game\bin\Release\net8.0\publish\Snake Game.deps.json
+C:\Users\oscar\OneDrive\Desktop\C#\Snake Game\Snake Game\bin\Release\net8.0\publish\Snake Game.runtimeconfig.json
+C:\Users\oscar\OneDrive\Desktop\C#\Snake Game\Snake Game\bin\Release\net8.0\publish\Snake Game.pdb
+C:\Users\oscar\OneDrive\Desktop\C#\Snake Game\Snake Game\bin\Release\net8.0\publish\MonoGame.Framework.dll
+C:\Users\oscar\OneDrive\Desktop\C#\Snake Game\Snake Game\bin\Release\net8.0\publish\NVorbis.dll
+C:\Users\oscar\OneDrive\Desktop\C#\Snake Game\Snake Game\bin\Release\net8.0\publish\runtimes\linux-x64\native\libopenal.so.1
+C:\Users\oscar\OneDrive\Desktop\C#\Snake Game\Snake Game\bin\Release\net8.0\publish\runtimes\osx\native\libopenal.1.dylib
+C:\Users\oscar\OneDrive\Desktop\C#\Snake Game\Snake Game\bin\Release\net8.0\publish\runtimes\win-x64\native\soft_oal.dll
+C:\Users\oscar\OneDrive\Desktop\C#\Snake Game\Snake Game\bin\Release\net8.0\publish\runtimes\win-x86\native\soft_oal.dll
+C:\Users\oscar\OneDrive\Desktop\C#\Snake Game\Snake Game\bin\Release\net8.0\publish\runtimes\linux-x64\native\libSDL2-2.0.so.0
+C:\Users\oscar\OneDrive\Desktop\C#\Snake Game\Snake Game\bin\Release\net8.0\publish\runtimes\osx\native\libSDL2.dylib
+C:\Users\oscar\OneDrive\Desktop\C#\Snake Game\Snake Game\bin\Release\net8.0\publish\runtimes\win-x64\native\SDL2.dll

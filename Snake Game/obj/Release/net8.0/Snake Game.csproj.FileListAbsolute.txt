@@ -1,0 +1,26 @@
+C:\Users\oscar\OneDrive\Desktop\C#\Snake Game\Snake Game\bin\Release\net8.0\Content\MenuFont.xnb
+C:\Users\oscar\OneDrive\Desktop\C#\Snake Game\Snake Game\bin\Release\net8.0\Snake Game.exe
+C:\Users\oscar\OneDrive\Desktop\C#\Snake Game\Snake Game\bin\Release\net8.0\Snake Game.deps.json
+C:\Users\oscar\OneDrive\Desktop\C#\Snake Game\Snake Game\bin\Release\net8.0\Snake Game.runtimeconfig.json
+C:\Users\oscar\OneDrive\Desktop\C#\Snake Game\Snake Game\bin\Release\net8.0\Snake Game.dll
+C:\Users\oscar\OneDrive\Desktop\C#\Snake Game\Snake Game\bin\Release\net8.0\Snake Game.pdb
+C:\Users\oscar\OneDrive\Desktop\C#\Snake Game\Snake Game\bin\Release\net8.0\MonoGame.Framework.dll
+C:\Users\oscar\OneDrive\Desktop\C#\Snake Game\Snake Game\bin\Release\net8.0\NVorbis.dll
+C:\Users\oscar\OneDrive\Desktop\C#\Snake Game\Snake Game\bin\Release\net8.0\runtimes\linux-x64\native\libopenal.so.1
+C:\Users\oscar\OneDrive\Desktop\C#\Snake Game\Snake Game\bin\Release\net8.0\runtimes\osx\native\libopenal.1.dylib
+C:\Users\oscar\OneDrive\Desktop\C#\Snake Game\Snake Game\bin\Release\net8.0\runtimes\win-x64\native\soft_oal.dll
+C:\Users\oscar\OneDrive\Desktop\C#\Snake Game\Snake Game\bin\Release\net8.0\runtimes\win-x86\native\soft_oal.dll
+C:\Users\oscar\OneDrive\Desktop\C#\Snake Game\Snake Game\bin\Release\net8.0\runtimes\linux-x64\native\libSDL2-2.0.so.0
+C:\Users\oscar\OneDrive\Desktop\C#\Snake Game\Snake Game\bin\Release\net8.0\runtimes\osx\native\libSDL2.dylib
+C:\Users\oscar\OneDrive\Desktop\C#\Snake Game\Snake Game\bin\Release\net8.0\runtimes\win-x64\native\SDL2.dll
+C:\Users\oscar\OneDrive\Desktop\C#\Snake Game\Snake Game\obj\Release\net8.0\Snake Game.csproj.AssemblyReference.cache
+C:\Users\oscar\OneDrive\Desktop\C#\Snake Game\Snake Game\obj\Release\net8.0\Snake Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oscar\OneDrive\Desktop\C#\Snake Game\Snake Game\obj\Release\net8.0\Snake Game.AssemblyInfoInputs.cache
+C:\Users\oscar\OneDrive\Desktop\C#\Snake Game\Snake Game\obj\Release\net8.0\Snake Game.AssemblyInfo.cs
+C:\Users\oscar\OneDrive\Desktop\C#\Snake Game\Snake Game\obj\Release\net8.0\Snake Game.csproj.CoreCompileInputs.cache
+C:\Users\oscar\OneDrive\Desktop\C#\Snake Game\Snake Game\obj\Release\net8.0\Snake Game.csproj.Up2Date
+C:\Users\oscar\OneDrive\Desktop\C#\Snake Game\Snake Game\obj\Release\net8.0\Snake Game.dll
+C:\Users\oscar\OneDrive\Desktop\C#\Snake Game\Snake Game\obj\Release\net8.0\refint\Snake Game.dll
+C:\Users\oscar\OneDrive\Desktop\C#\Snake Game\Snake Game\obj\Release\net8.0\Snake Game.pdb
+C:\Users\oscar\OneDrive\Desktop\C#\Snake Game\Snake Game\obj\Release\net8.0\Snake Game.genruntimeconfig.cache
+C:\Users\oscar\OneDrive\Desktop\C#\Snake Game\Snake Game\obj\Release\net8.0\ref\Snake Game.dll
